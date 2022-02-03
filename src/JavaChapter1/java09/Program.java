@@ -1,4 +1,4 @@
-package java09;
+package JavaChapter1.java09;
 
 public class Program {
     public static void main(String[] args) {

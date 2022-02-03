@@ -1,4 +1,4 @@
-package java14;
+package JavaChapter1.java14;
 
 import java.util.Scanner;
 

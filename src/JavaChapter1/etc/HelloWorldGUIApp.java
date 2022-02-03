@@ -1,4 +1,4 @@
-package etc;
+package JavaChapter1.etc;
 
 import javax.swing.*;
 import java.awt.*;

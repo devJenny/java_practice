@@ -1,4 +1,4 @@
-package java04;
+package JavaChapter1.java04;
 
 public class HelloWorldApp {
     public static void main(String[] args) {

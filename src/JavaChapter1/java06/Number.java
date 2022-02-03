@@ -1,4 +1,4 @@
-package java06;
+package JavaChapter1.java06;
 
 public class Number {
     public static void main(String[] args) {

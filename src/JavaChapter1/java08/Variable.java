@@ -1,4 +1,4 @@
-package java08;
+package JavaChapter1.java08;
 
 public class Variable {
     public static void main(String[] args) {
